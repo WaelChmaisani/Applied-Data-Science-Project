@@ -1,5 +1,5 @@
 # Applied-Data-Science-Project
 
-## DS Projects
+## DS Project
 
-contains my data science projects
+contains my data science project about Falcon 9 first-stage landing
