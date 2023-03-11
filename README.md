@@ -2,4 +2,4 @@
 
 ## DS Project
 
-contains my data science project about Falcon 9 first-stage landing
+contains my data science project about Spacex Falcon 9 first-stage landing prediction
